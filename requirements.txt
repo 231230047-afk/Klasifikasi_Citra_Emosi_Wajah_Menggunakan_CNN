@@ -3,6 +3,5 @@ tensorflow
 numpy
 pandas
 matplotlib
-seaborn
-scikit-learn
 pillow
+opencv-python-headless<5
